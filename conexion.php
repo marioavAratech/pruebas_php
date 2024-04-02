@@ -1,5 +1,5 @@
 <?php
 
-echo "Fichero de conexion";
+echo "Fichero de conexion editado";
 
 ?>
